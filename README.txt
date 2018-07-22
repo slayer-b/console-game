@@ -1,0 +1,1 @@
+If you want to play a game, simply run main method in Main class.
